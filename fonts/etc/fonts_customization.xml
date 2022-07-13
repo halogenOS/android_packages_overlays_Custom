@@ -21,4 +21,15 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+
+    <family customizationType="new-named-family" name="sourcesanspro">
+        <font weight="400" style="normal">SourceSansPro-Regular.ttf</font>
+        <font weight="400" style="italic">SourceSansPro-Italic.ttf</font>
+        <font weight="500" style="normal">SourceSansPro-Medium.ttf</font>
+        <font weight="500" style="italic">SourceSansPro-MediumItalic.ttf</font>
+        <font weight="700" style="normal">SourceSansPro-Bold.ttf</font>
+        <font weight="700" style="italic">SourceSansPro-BoldItalic.ttf</font>
+    </family>
+    <alias name="sourcesanspro-medium" to="sourcesanspro" weight="500" />
+    <alias name="sourcesanspro-bold" to="sourcesanspro" weight="700" />
 </fonts-modification>
