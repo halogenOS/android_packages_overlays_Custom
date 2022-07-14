@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary_bundle1">#1e88e5</color>
+    <color name="color_secondary_bundle1">#4182EF</color>
+
+    <color name="color_primary_default">#ffffff</color>
+    <color name="color_secondary_default">#1e88e5</color>
+</resources>

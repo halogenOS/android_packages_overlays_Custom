@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Custom Themes</string>
+
+    <string name="default_color_name">Default</string>
+    <string name="bundle1_color_name">Blue</string>
+
+    <string name="bundle_name_default">@string/default_color_name</string>
+    <string name="bundle_name_bundle1">@string/bundle1_color_name</string>
 </resources>
