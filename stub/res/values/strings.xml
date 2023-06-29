@@ -38,6 +38,8 @@
     <string name="bundle_name_rainbow7" translatable="false">@string/rainbow_color_name_magenta</string>
     <string name="bundle_name_monochromatic" translatable="false">@string/monochromatic_name</string>
 
+    <string name="color_style_custom" translatable="false">CUSTOM</string>
+
     <string name="color_style_fruits1" translatable="false">FRUIT_SALAD</string>
     <string name="color_style_fruits2" translatable="false">FRUIT_SALAD</string>
     <string name="color_style_fruits3" translatable="false">FRUIT_SALAD</string>
