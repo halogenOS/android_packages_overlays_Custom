@@ -10,6 +10,9 @@
     <color name="color_secondary_bundle2">#746BC1</color>
     <color name="color_secondary_bundle3">#A66800</color>
 
+    <color name="color_primary_custom">#FFFFFF</color>
+    <color name="color_secondary_custom">#00B4E7</color>
+
     <color name="color_primary_monochromatic">#666666</color>
     <color name="color_secondary_monochromatic">#333333</color>
 
