@@ -2,10 +2,11 @@
 <resources>
     <string name="app_name">Custom Themes</string>
 
-    <string name="default_color_name">Classic</string>
-    <string name="bundle1_color_name">Carbon</string>
-    <string name="bundle2_color_name">Paper</string>
-    <string name="bundle3_color_name">Sun</string>
+    <string name="fruit_color_name_yellow">Ananas</string>
+    <string name="fruit_color_name_green">Kiwi</string>
+    <string name="fruit_color_name_blue">Blueberry</string>
+    <string name="fruit_color_name_purple">Grapes</string>
+    <string name="fruit_color_name_magenta">Cherry</string>
     <string name="custom_color_name">Custom Black Blue</string>
     <string name="rainbow_color_name_red">Red</string>
     <string name="rainbow_color_name_orange">Orange</string>
@@ -16,18 +17,13 @@
     <string name="rainbow_color_name_magenta">Magenta</string>
     <string name="monochromatic_name">Monochromatic</string>
 
-    <string name="bundle_name_default" translatable="false">@string/default_color_name</string>
-    <string name="bundle_name_bundle1" translatable="false">@string/bundle1_color_name</string>
-    <string name="bundle_name_bundle2" translatable="false">@string/bundle2_color_name</string>
-    <string name="bundle_name_bundle3" translatable="false">@string/bundle3_color_name</string>
-
     <string name="bundle_name_custom" translatable="false">@string/custom_color_name</string>
 
-    <string name="bundle_name_fruits1" translatable="false">@string/default_color_name</string>
-    <string name="bundle_name_fruits2" translatable="false">@string/default_color_name</string>
-    <string name="bundle_name_fruits3" translatable="false">@string/default_color_name</string>
-    <string name="bundle_name_fruits4" translatable="false">@string/default_color_name</string>
-    <string name="bundle_name_fruits5" translatable="false">@string/default_color_name</string>
+    <string name="bundle_name_fruits1" translatable="false">@string/fruit_color_name_yellow</string>
+    <string name="bundle_name_fruits2" translatable="false">@string/fruit_color_name_green</string>
+    <string name="bundle_name_fruits3" translatable="false">@string/fruit_color_name_blue</string>
+    <string name="bundle_name_fruits4" translatable="false">@string/fruit_color_name_purple</string>
+    <string name="bundle_name_fruits5" translatable="false">@string/fruit_color_name_magenta</string>
 
     <string name="bundle_name_rainbow1" translatable="false">@string/rainbow_color_name_red</string>
     <string name="bundle_name_rainbow2" translatable="false">@string/rainbow_color_name_orange</string>
@@ -54,4 +50,9 @@
     <string name="color_style_rainbow6" translatable="false">RAINBOW</string>
     <string name="color_style_rainbow7" translatable="false">RAINBOW</string>
     <string name="color_style_monochromatic" translatable="false">MONOCHROMATIC</string>
+
+    <!-- Black -->
+    <string name="theme_name_black">Black</string>
+    <string name="theme_title_black">@string/theme_name_black</string>
+    <string name="theme_overlay_color_black">custom.theme.black</string>
 </resources>

@@ -1,0 +1,10 @@
+android_app {
+    name: "CustomThemesStub",
+	product_specific: true,
+    sdk_version: "current",
+
+    manifest: "AndroidManifest.xml",
+    overrides: [
+        "ThemesStub",
+    ],
+}

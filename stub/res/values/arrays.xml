@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="themes" />
+    <string-array name="themes">
+        <item>black</item>
+    </string-array>
     <string-array name="color_bundles">
-        <item>default</item>
-        <item>bundle1</item>
-        <item>bundle2</item>
-        <item>bundle3</item>
-        <item>custom</item>
         <item>monochromatic</item>
         <item>rainbow1</item>
         <item>rainbow2</item>
