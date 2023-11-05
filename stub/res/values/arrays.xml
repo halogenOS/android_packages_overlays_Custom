@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="themes">
-        <item>black</item>
-    </string-array>
+    <string-array name="themes" />
     <string-array name="color_bundles">
+        <item>xos</item>
+        <item>xosmaterial</item>
         <item>monochromatic</item>
         <item>rainbow1</item>
         <item>rainbow2</item>

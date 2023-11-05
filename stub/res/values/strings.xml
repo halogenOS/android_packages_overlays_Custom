@@ -7,7 +7,8 @@
     <string name="fruit_color_name_blue">Blueberry</string>
     <string name="fruit_color_name_purple">Grapes</string>
     <string name="fruit_color_name_magenta">Cherry</string>
-    <string name="custom_color_name">Custom Black Blue</string>
+    <string name="custom_color_name_xos">halogenOS</string>
+    <string name="custom_color_name_xosmaterial">halogenOS Material</string>
     <string name="rainbow_color_name_red">Red</string>
     <string name="rainbow_color_name_orange">Orange</string>
     <string name="rainbow_color_name_yellow">Yellow</string>
@@ -17,7 +18,8 @@
     <string name="rainbow_color_name_magenta">Magenta</string>
     <string name="monochromatic_name">Monochromatic</string>
 
-    <string name="bundle_name_custom" translatable="false">@string/custom_color_name</string>
+    <string name="bundle_name_xos" translatable="false">@string/custom_color_name_xos</string>
+    <string name="bundle_name_xosmaterial" translatable="false">@string/custom_color_name_xosmaterial</string>
 
     <string name="bundle_name_fruits1" translatable="false">@string/fruit_color_name_yellow</string>
     <string name="bundle_name_fruits2" translatable="false">@string/fruit_color_name_green</string>
@@ -34,7 +36,8 @@
     <string name="bundle_name_rainbow7" translatable="false">@string/rainbow_color_name_magenta</string>
     <string name="bundle_name_monochromatic" translatable="false">@string/monochromatic_name</string>
 
-    <string name="color_style_custom" translatable="false">CUSTOM</string>
+    <string name="color_style_xos" translatable="false">CUSTOM</string>
+    <string name="color_style_xosmaterial" translatable="false">CUSTOM</string>
 
     <string name="color_style_fruits1" translatable="false">FRUIT_SALAD</string>
     <string name="color_style_fruits2" translatable="false">FRUIT_SALAD</string>
@@ -51,8 +54,4 @@
     <string name="color_style_rainbow7" translatable="false">RAINBOW</string>
     <string name="color_style_monochromatic" translatable="false">MONOCHROMATIC</string>
 
-    <!-- Black -->
-    <string name="theme_name_black">Black</string>
-    <string name="theme_title_black">@string/theme_name_black</string>
-    <string name="theme_overlay_color_black">custom.theme.black</string>
 </resources>
