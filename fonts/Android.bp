@@ -1,0 +1,9 @@
+filegroup {
+    name: "lato_fonts_customization",
+    srcs: ["lato_fonts_customization.xml"],
+}
+
+filegroup {
+    name: "rubik_fonts_customization",
+    srcs: ["rubik_fonts_customization.xml"],
+}
