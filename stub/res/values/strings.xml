@@ -18,9 +18,6 @@
     <string name="rainbow_color_name_magenta">Magenta</string>
     <string name="monochromatic_name">Monochromatic</string>
 
-    <string name="bundle_name_xos" translatable="false">@string/custom_color_name_xos</string>
-    <string name="bundle_name_xosmaterial" translatable="false">@string/custom_color_name_xosmaterial</string>
-
     <string name="bundle_name_fruits1" translatable="false">@string/fruit_color_name_yellow</string>
     <string name="bundle_name_fruits2" translatable="false">@string/fruit_color_name_green</string>
     <string name="bundle_name_fruits3" translatable="false">@string/fruit_color_name_blue</string>
@@ -35,9 +32,6 @@
     <string name="bundle_name_rainbow6" translatable="false">@string/rainbow_color_name_purple</string>
     <string name="bundle_name_rainbow7" translatable="false">@string/rainbow_color_name_magenta</string>
     <string name="bundle_name_monochromatic" translatable="false">@string/monochromatic_name</string>
-
-    <string name="color_style_xos" translatable="false">CUSTOM</string>
-    <string name="color_style_xosmaterial" translatable="false">CUSTOM</string>
 
     <string name="color_style_fruits1" translatable="false">FRUIT_SALAD</string>
     <string name="color_style_fruits2" translatable="false">FRUIT_SALAD</string>
