@@ -1,5 +1,5 @@
 android_app {
-    name: "CustomThemesStub",
+    name: "PhaseBeam",
     product_specific: true,
     sdk_version: "current",
 
