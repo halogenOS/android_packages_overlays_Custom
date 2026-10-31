@@ -1,0 +1,11 @@
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="custom.overlay.tablet.com.android.systemui">
+
+    <overlay android:targetPackage="com.android.systemui" />
+
+    <application android:hasCode="false" />
+</manifest>
