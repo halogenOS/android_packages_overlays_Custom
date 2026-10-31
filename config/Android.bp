@@ -1,0 +1,14 @@
+// SPDX-FileCopyrightText: The halogenOS Project
+// SPDX-License-Identifier: Apache-2.0
+
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+prebuilt_overlay {
+    name: "custom_overlay_config.xml",
+    src: "config.xml",
+    filename: "config.xml",
+    sub_dir: "config",
+    product_specific: true,
+}
