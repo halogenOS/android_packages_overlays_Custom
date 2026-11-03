@@ -6,4 +6,6 @@
 <config>
     <overlay package="custom.overlay.tablet.android" mutable="false" enabled="true" />
     <overlay package="custom.overlay.tablet.com.android.systemui" mutable="false" enabled="true" />
+    <overlay package="custom.overlay.clockstyles.com.android.systemui" mutable="false" enabled="true" />
+    <overlay package="custom.overlay.clockstyles.com.android.wallpaper" mutable="false" enabled="true" />
 </config>

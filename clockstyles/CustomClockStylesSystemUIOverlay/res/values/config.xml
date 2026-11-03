@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- SystemUI plugins that can be loaded on user builds: the stock list and the clock styles. -->
+    <string-array name="config_pluginAllowlist" translatable="false">
+        <item>com.android.systemui</item>
+        <item>custom.clockstyles.symmetra</item>
+    </string-array>
+</resources>
