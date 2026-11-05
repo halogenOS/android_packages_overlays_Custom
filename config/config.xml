@@ -9,4 +9,5 @@
     <overlay package="custom.overlay.clockstyles.com.android.systemui" mutable="false" enabled="true" />
     <overlay package="custom.overlay.clockstyles.com.android.wallpaper" mutable="false" enabled="true" />
     <overlay package="custom.overlay.themepicker.com.android.settings" mutable="false" enabled="true" />
+    <overlay package="custom.overlay.defaults.android" mutable="false" enabled="true" />
 </config>

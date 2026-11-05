@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- A long press on the power button opens the power menu. The stock value opens the assistant, which does
+         nothing while no assistant app is installed. Settings can still switch it to the assistant. -->
+    <integer name="config_longPressOnPowerBehavior">1</integer>
+</resources>
