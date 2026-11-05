@@ -10,4 +10,8 @@
 
     <!-- New users start in the dark theme. -->
     <integer name="config_defaultNightMode">2</integer>
+
+    <!-- Adaptive icons, and the icons of the Settings home page drawn with this mask, are round. The path is the
+         circle offered by the icon shape picker of Launcher3. -->
+    <string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
 </resources>
