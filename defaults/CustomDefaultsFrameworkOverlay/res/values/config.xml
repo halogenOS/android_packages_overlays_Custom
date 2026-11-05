@@ -7,4 +7,7 @@
     <!-- A long press on the power button opens the power menu. The stock value opens the assistant, which does
          nothing while no assistant app is installed. Settings can still switch it to the assistant. -->
     <integer name="config_longPressOnPowerBehavior">1</integer>
+
+    <!-- New users start in the dark theme. -->
+    <integer name="config_defaultNightMode">2</integer>
 </resources>
