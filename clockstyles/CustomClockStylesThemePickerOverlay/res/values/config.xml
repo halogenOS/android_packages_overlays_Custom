@@ -6,6 +6,8 @@
 <resources>
     <!-- Clock styles that the picker loads on user builds. -->
     <string-array name="config_clockPluginAllowlist" translatable="false">
+        <item>custom.clockstyles.element</item>
+        <item>custom.clockstyles.orbital</item>
         <item>custom.clockstyles.symmetra</item>
     </string-array>
 </resources>

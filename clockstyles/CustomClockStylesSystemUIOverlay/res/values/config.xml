@@ -7,6 +7,8 @@
     <!-- SystemUI plugins that can be loaded on user builds: the stock list and the clock styles. -->
     <string-array name="config_pluginAllowlist" translatable="false">
         <item>com.android.systemui</item>
+        <item>custom.clockstyles.element</item>
+        <item>custom.clockstyles.orbital</item>
         <item>custom.clockstyles.symmetra</item>
     </string-array>
 </resources>
