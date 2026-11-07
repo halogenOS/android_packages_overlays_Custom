@@ -1,0 +1,11 @@
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="custom.overlay.themepicker.com.android.launcher3">
+
+    <overlay android:targetPackage="com.android.launcher3" />
+
+    <application android:hasCode="false" />
+</manifest>

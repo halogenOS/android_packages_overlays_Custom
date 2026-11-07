@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- The wallpaper entry of the home screen opens ThemePicker without asking which app to use. -->
+    <string name="wallpaper_picker_package" translatable="false">com.android.wallpaper</string>
+</resources>
