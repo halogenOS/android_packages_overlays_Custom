@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- The backup entry opens the list of backup transports, so the Seedvault settings are reachable from it -->
+    <string name="config_backup_settings_intent" translatable="false">settings://com.android.settings.backup.transport</string>
+</resources>
