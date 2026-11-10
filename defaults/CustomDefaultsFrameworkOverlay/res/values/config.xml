@@ -17,4 +17,7 @@
 
     <!-- Prism, the live wallpaper of the Wallpapers app, is the default wallpaper for a new install. -->
     <string name="default_wallpaper_component" translatable="false">custom.wallpapers/.prism.PrismWallpaper</string>
+
+    <!-- Recent tasks stay in the recents list for 12 hours after their last use, twice the stock time. -->
+    <integer name="config_activeTaskDurationHours">12</integer>
 </resources>
