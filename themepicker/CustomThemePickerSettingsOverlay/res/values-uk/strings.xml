@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The halogenOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Summary of the Wallpaper & style entry on the top level of Settings, naming what ThemePicker changes. -->
+    <string name="wallpaper_dashboard_summary">Головний екран, заблокований екран, кольори, шрифти</string>
+</resources>
